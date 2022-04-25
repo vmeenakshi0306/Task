@@ -4,6 +4,9 @@ pulavo
 kesar
 Chicken fry
 
+beans
+pizza
+
 Thank you
 
 
