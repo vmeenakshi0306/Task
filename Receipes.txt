@@ -2,6 +2,7 @@ Welcome to viamai food
 Kheer
 pulavo
 kesar
+Chicken fry
 
 
 
